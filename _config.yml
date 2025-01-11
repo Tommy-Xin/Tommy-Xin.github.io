@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Xin Cheng"
 title_separator          : "-"
 name                     : &name "Xin Cheng"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Hong Kong"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
