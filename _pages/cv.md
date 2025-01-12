@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, MIT, 2029 (expected)
-* M.S. in Hong Kong, The University of Hong Kong, 2025
-* B.S. in Changchun, Jilin University, 2024
+* Ph.D in Artificial Intelligence, MIT, 2029 (expected)
+* M.S. in Statistics, The University of Hong Kong, 2025
+* B.S. in Data Science and Big Data Technology, Jilin University, 2024
 
 Work experience
 ======
@@ -47,18 +47,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
