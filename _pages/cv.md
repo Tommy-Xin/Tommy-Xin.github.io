@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Artificial Intelligence, MIT, 2029 (expected)
+* Ph.D in Artificial Intelligence, Harbin Institute of Technology, Shenzhen, 2029 (expected)
 * M.S. in Statistics, The University of Hong Kong, 2025
 * B.S. in Data Science and Big Data Technology, Jilin University, 2024
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -30,16 +30,13 @@ Work experience
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
 * Badminton
+* Driving
+* Hiking
 
 Publications
 ======
