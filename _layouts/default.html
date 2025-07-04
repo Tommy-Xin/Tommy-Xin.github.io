@@ -10,7 +10,18 @@ layout: compress
     {% include head.html %}
     {% include head/custom.html %}
   </head>
+# load the counting script
+<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<script>
+  // disable right-click context menu
+  document.addEventListener('contextmenu', event => event.preventDefault());
 
+  // avoid text selection
+  document.addEventListener('copy', event => {
+    alert("Copying is disabled on this site.");
+    event.preventDefault();
+  });
+</script>
   <body>
 
     {% include browser-upgrade.html %}
