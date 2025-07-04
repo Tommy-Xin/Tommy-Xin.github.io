@@ -54,7 +54,7 @@ Leisure life
 </h2>
 
 <p align="center" style="font-size:17px; max-width: 800px; margin: 0 auto; line-height:1.7;">
-  Outside the world of algorithms and biology, I find energy and balance through <strong style="color:#2e86de;">travel</strong> and <strong style="color:#28b463;">competitive badminton</strong>.
+  Outside the world of algorithms, I find energy and balance through <strong style="color:#2e86de;">travel</strong> and <strong style="color:#28b463;">competitive badminton</strong>.
   <br><br>
   🏆 I am proudly to be selected as Athletes' representatives taking the oath in the <strong>Chinese National University Badminton Championship</strong>.Our team togerther won the <strong>Men’s Team Gold Medal</strong> at the <strong>Jilin Province Student Games</strong>, and triumphed at the <strong>CSSA Hong Kong Badminton Championship</strong>.
   <br><br>
