@@ -44,8 +44,53 @@ My undergraduate thesis was titled “Prediction of Protein Methylation Sites Ba
 <!-- Publication
 ====== -->
 
+Leisure life
+======
 
+<hr>
 
+<h2 align="center" style="color:#2c3e50; font-size: 28px; font-weight: bold;">
+  🏸 Leisure & Sports Life — Science, Passion & Exploration ✈️
+</h2>
+
+<p align="center" style="font-size:17px; max-width: 800px; margin: 0 auto; line-height:1.7;">
+  Outside the world of algorithms and biology, I find energy and balance through <strong style="color:#2e86de;">travel</strong> and <strong style="color:#28b463;">competitive badminton</strong>.
+  <br><br>
+  🏆 I proudly represented my university in the <strong>Chinese National University Badminton Championship</strong>, won the <strong>Men’s Team Gold Medal</strong> at the <strong>Jilin Province Student Games</strong>, and triumphed at the <strong>CSSA Hong Kong Badminton Championship</strong>.
+  <br><br>
+  ✈️ Traveling allows me to explore new cultures, capture breathtaking views, and reflect deeply — a creative fuel for both life and research.
+</p>
+
+<br>
+
+<!-- Photo Grid -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <!-- Badminton 1 -->
+  <div>
+    <img src="/images/badminton1.jpg" alt="Badminton 1" style="width: 300px; border-radius: 12px; box-shadow: 0px 0px 12px rgba(0,0,0,0.15);">
+    <p align="center" style="font-size:14px; color:#555;">National University Championship</p>
+  </div>
+
+  <!-- Badminton 2 -->
+  <div>
+    <img src="/images/badminton2.jpg" alt="Badminton 2" style="width: 300px; border-radius: 12px; box-shadow: 0px 0px 12px rgba(0,0,0,0.15);">
+    <p align="center" style="font-size:14px; color:#555;">CSSA All-HK Champion 2024</p>
+  </div>
+
+  <!-- Travel 1 -->
+  <div>
+    <img src="/images/travel1.jpg" alt="Travel 1" style="width: 300px; border-radius: 12px; box-shadow: 0px 0px 12px rgba(0,0,0,0.15);">
+    <p align="center" style="font-size:14px; color:#555;">Mountains of Yunnan</p>
+  </div>
+
+  <!-- Travel 2 -->
+  <div>
+    <img src="/images/travel2.jpg" alt="Travel 2" style="width: 300px; border-radius: 12px; box-shadow: 0px 0px 12px rgba(0,0,0,0.15);">
+    <p align="center" style="font-size:14px; color:#555;">Sunset in Kyoto</p>
+  </div>
+
+</div>
 
 <!-- Create content & metadata
 ------
