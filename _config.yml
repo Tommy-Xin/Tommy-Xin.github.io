@@ -39,6 +39,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
+  openreview       : "https://openreview.net/profile?id=%7ECheng_Xin6"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site

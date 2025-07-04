@@ -19,17 +19,30 @@ During my undergraduate studies, I focused on research at the intersection of bi
   </p>
 <!-- </div> -->
 
-
-Selected Paper
+News
 ======
+
+
+
+Honors and Awards
+======
+
+
+
+Academic Activities
+======
+
+<!-- 
+Selected Paper
+====== -->
 <!-- Research Experience
 ======
 During my undergraduate studies at Jilin University, I received professional training in scientific research. As the team leader in the University Student Innovation and Entrepreneurship Competition, I led my team to complete a project titled “Main Document Extraction and Document Attribute Classification Methods Based on Deep Learning.” This project focuses on techniques for classifying articles based on their main content. Using comprehensive layout analysis methods, the document is divided into smaller regions. We apply the Faster R-CNN algorithm to extract and classify features from each region, then integrate the features of multiple regions within the document to form the document’s overall features, achieving the goals of classification and main content extraction.
 
 My undergraduate thesis was titled “Prediction of Protein Methylation Sites Based on a Dense Convolutional Framework.” This project was completed under the funding of the National Natural Science Foundation of China (NSFC 62272192), which was approved by my supervisor. The quality of the thesis was high, and I was awarded the 2024 Excellent Undergraduate Thesis Award by Jilin University. A scientific paper based on this project has been accepted for inclusion in the IEEE 2024 Bioinformatics and Biomedical International Conference (CCF-B) workshop. -->
 
-Publication
-======
+<!-- Publication
+====== -->
 
 
 

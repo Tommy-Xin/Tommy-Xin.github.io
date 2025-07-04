@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Artificial Intelligence, Harbin Institute of Technology, Shenzhen, 2029 (expected)
+* Ph.D. in Computer Science, Harbin Institute of Technology, Shenzhen, 2029 (expected)
 * M.S. in Statistics, The University of Hong Kong, 2025
 * B.S. in Data Science and Big Data Technology, Jilin University, 2024
 
