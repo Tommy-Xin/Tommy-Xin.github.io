@@ -14,7 +14,8 @@ Research Interest
 During my undergraduate studies, I focused on research at the intersection of bioinformatics and AI for science, particularly the interdisciplinary integration of artificial intelligence with biology and pharmacology. Specifically, I explored protein methylation and RNA expression and regulation using deep learning techniques. Looking ahead, my Ph.D. research will center on multimodal learning and computer vision, under the supervision of Yangtze River Scholar Prof. [Xu Yong](https://faculty.hitsz.edu.cn/xuyong)
 
 
-
+Selected Paper
+======
 <!-- Research Experience
 ======
 During my undergraduate studies at Jilin University, I received professional training in scientific research. As the team leader in the University Student Innovation and Entrepreneurship Competition, I led my team to complete a project titled “Main Document Extraction and Document Attribute Classification Methods Based on Deep Learning.” This project focuses on techniques for classifying articles based on their main content. Using comprehensive layout analysis methods, the document is divided into smaller regions. We apply the Faster R-CNN algorithm to extract and classify features from each region, then integrate the features of multiple regions within the document to form the document’s overall features, achieving the goals of classification and main content extraction.
