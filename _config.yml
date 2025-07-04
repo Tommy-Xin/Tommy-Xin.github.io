@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xin Cheng"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Xin Cheng"
 description              : &description "personal description"
@@ -257,14 +257,14 @@ defaults:
   #     share: true
   #     comments: true
   # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: False
-      share: true
-      comments: true
+  # - scope:
+  #     path: ""
+  #     type: publications
+  #   values:
+  #     layout: single
+  #     author_profile: False
+  #     share: true
+  #     comments: true
   # # _portfolio
   # - scope:
   #     path: ""
