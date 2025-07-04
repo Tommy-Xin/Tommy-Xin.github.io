@@ -8,7 +8,7 @@ date: 2025-06-30
 venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Junwei Su<sup>†</sup>, Cheng Xin<sup>†</sup>, Ao Shang, Shan Wu, Zhenzhen Xie, Ruogu Xiong, Xiaoyu Xu, Cheng Zhang, Guang Chen, Yau-Tuen Chan, Guoyi Tang<sup>*</sup>, Ning Wang, Yong Xu, Yibin Feng<sup>*</sup>(2025). <i>Artificial intelligence in drug discovery: A comprehensive review with a case study on hyperuricemia, gout arthritis, and hyperuricemic nephropathy</i>. Acta Pharmaceutica Sinica B.'
+citation: 'Junwei Su<sup>†</sup>, Cheng Xin<sup>†</sup>, Ao Shang, Shan Wu, Zhenzhen Xie, Ruogu Xiong, Xiaoyu Xu, Cheng Zhang, Guang Chen, Yau-Tuen Chan, Guoyi Tang<sup>*</sup>, Ning Wang, Yong Xu, Yibin Feng<sup>*</sup>(2025). <i>Artificial intelligence in drug discovery: A comprehensive review with a case study on hyperuricemia, gout arthritis, and hyperuricemic nephropathy</i>. Submit to Acta Pharmaceutica Sinica B.'
 
 
 ---
