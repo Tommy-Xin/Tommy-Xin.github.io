@@ -18,19 +18,19 @@ During my undergraduate studies, I focused on research at the intersection of bi
     If you’re interested, feel free to <strong>reach out</strong> — let’s build something exciting together!
   </p>
 <!-- </div> -->
-
+<!-- 
 News
 ======
 
 
 
-Honors and Awards
-======
+<!-- Honors and Awards
+====== -->
 
 
 
-Academic Activities
-======
+<!-- Academic Activities
+====== --> -->
 
 <!-- 
 Selected Paper
