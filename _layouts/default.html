@@ -22,6 +22,16 @@ layout: compress
     event.preventDefault();
   });
 </script>
+
+<script>
+  fetch('https://tommy-xin-github-io.vercel.app/api/visitor')
+    .then(res => res.json())
+    .then(data => {
+      console.log("📡 Visitor recorded:", data);
+    })
+    .catch(err => console.warn("Visitor API error:", err));
+</script>
+
   <body>
 
     {% include browser-upgrade.html %}
