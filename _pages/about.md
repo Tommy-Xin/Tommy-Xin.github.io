@@ -20,7 +20,7 @@ During my undergraduate and master studies, I focused on research at the interse
   <span style="color:#6a1b9a;">AI for Science</span>.<br>
   If you’re interested, feel free to <strong>reach out</strong> via 
   <a href="/images/0489080E066E0757D3862B3AF5406FA1.png" target="_blank">WeChat</a>
-  </a> or email — let’s build something exciting together!
+  </a> — let’s build something exciting together!
 </p>
 <!-- </div> -->
 <!-- 
