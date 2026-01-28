@@ -11,7 +11,7 @@ redirect_from:
 
 Research Interest
 ======
-During my undergraduate and master studies, I focused on research at the intersection of bioinformatics and AI for science, particularly the interdisciplinary integration of artificial intelligence with biology and pharmacology. Specifically, I explored protein methylation and RNA expression and regulation using deep learning techniques. Nowadays, my Ph.D. research focuses on multimodal learning and embodied AI, with a particular emphasis on the vision language models(VLMs) under the supervision of Yangtze River Scholar Prof. [Xu Yong](https://faculty.hitsz.edu.cn/xuyong). 
+During my undergraduate and master studies, I focused on research at the intersection of bioinformatics and AI for science, particularly the interdisciplinary integration of artificial intelligence with biology and pharmacology. Specifically, I explored protein methylation and RNA expression and regulation using deep learning techniques. Nowadays, my Ph.D. research focuses on multimodal understanding and embodied AI, with a particular emphasis on the vision language models(VLMs) under the supervision of Yangtze River Scholar Prof. [Xu Yong](https://faculty.hitsz.edu.cn/xuyong). 
 <!-- <div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 15px; background-color: #f9fff9; font-size: 18px;"> -->
   <p style="font-weight: bold; color: #2e7d32;">
     💡 <strong>I’m actively looking for collaborators</strong> in <span style="color:#1565c0;">AI for Science</span> , <span style="color:#6a1b9a;">VLMs</span> and <span style="color:#6a1b9a;">Embodied AI</span>.<br>
