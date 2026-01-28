@@ -1,6 +1,7 @@
 ---
 title: "Artificial intelligence in drug discovery: A comprehensive review with a case study on hyperuricemia, gout arthritis, and hyperuricemic nephropathy "
 collection: publications
+topic: AI4Science
 category: manuscripts
 permalink: /publication/2025-06-30-Artificial-intelligence-in-drug-discovery
 excerpt: 'This paper systematically reviews recent advances in artificial intelligence (AI), with a particular focus on machine learning (ML), across the entire drug discovery pipeline. '

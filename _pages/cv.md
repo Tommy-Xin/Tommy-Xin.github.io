@@ -40,10 +40,19 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <!-- <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> -->
+<h2>AI for Science</h2>
+<ul>
+{% assign pubs = site.publications 
+   | where: "topic", "AI4Science" 
+   | sort: "year" 
+   | reverse %}
+{% for post in pubs %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
 <!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}

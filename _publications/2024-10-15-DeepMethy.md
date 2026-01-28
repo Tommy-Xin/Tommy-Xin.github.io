@@ -1,6 +1,7 @@
 ---
 title: "DeepMethy: A deep learning model for protein methylation site prediction"
 collection: publications
+topic: AI4Science
 category: conference
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'In this paper, a deep neural network based model is proposed to predict protein methylation, which is called by DeepMethy. '
