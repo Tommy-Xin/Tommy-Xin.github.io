@@ -15,7 +15,7 @@ During my undergraduate and master studies, I focused on research at the interse
 <!-- <div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 15px; background-color: #f9fff9; font-size: 18px;"> -->
   <p style="font-weight: bold; color: #2e7d32;">
     💡 <strong>I’m actively looking for collaborators</strong> in <span style="color:#1565c0;">VLMs</span> , <span style="color:#6a1b9a;">Embodied AI</span> and <span style="color:#6a1b9a;">AI for Science</span>.<br>
-    If you’re interested, feel free to <strong>reach out</strong> — let’s build something exciting together!
+    If you’re interested, feel free to <strong>reach out</strong> [me](/Users/xinc/Documents/Myself/xinc-website/Tommy-Xin.github.io/images/0489080E066E0757D3862B3AF5406FA1.png) — let’s build something exciting together!
   </p>
 <!-- </div> -->
 <!-- 
